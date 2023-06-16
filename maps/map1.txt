@@ -1,0 +1,9 @@
+# Map 1
+#
+# usage:
+# element x_min y_min z_min x_max y_max z_max
+#
+# can optionally include obstacles using the 'block' element
+
+block .527 -.259 0  .0.777 .350 0.2
+
